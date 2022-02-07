@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JonnyCash-glitch
-- 👀 I’m interested in solidity, fpv drones, vr, & trading algorithms
+- 👀 I’m interested in trading algorithms
 - 🌱 I’m currently learning Pinescript & Python
 - 💞️ I’m looking to collaborate on just about anything
 - 📫 Introductions on twitter are preferred, https://y.at/🤧🦍🍌
