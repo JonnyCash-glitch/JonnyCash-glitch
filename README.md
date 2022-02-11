@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonnyCash-glitch
 - 👀 I’m interested in trading algorithms
-- 🌱 I’m currently learning Pinescript & Python
+- 🌱 I’m currently learning Pinescript & Python, as much as possible!
 - 💞️ I’m looking to collaborate on just about anything
 - 📫 Introductions on twitter are preferred, https://y.at/🤧🦍🍌
 
